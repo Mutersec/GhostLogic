@@ -16,7 +16,7 @@ GhostLogic, hedef sisteme tek bir "malicious" (zararlı) paket göndermeden, sad
 
 ## Kurulum
 ```bash
-git clone 
+git clone https://github.com/Mutersec/GhostLogic/tree/main/GhostLogic
 cd ghostlogic
 pip install -r requirements.txt
 python ghostlogic.py --url [https://hedef-sirket.com](https://hedef-sirket.com) --deep-scan
