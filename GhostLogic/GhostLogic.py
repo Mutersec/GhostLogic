@@ -76,10 +76,7 @@ def main():
     print_banner()
 
     # Domain ismini rapor için temizle
-    try:
-        domain = args.url.split("//")[-1].split("/")[0]
-    except:
-        domain = "target"
+    domain = args.url.split("//")[-1].split("/")[0]
 
     # Adım 1: Hasat
     harvester = Harvester(args.url)
