@@ -32,6 +32,7 @@ GhostLogic/
 └── output/             # İndirilen dosyalar buraya gelecek
 
 
-## 📸 Demo Output
+demo.png DOSYASINA TIKLAYIN ÇALIŞTIĞINA DAİR EKRAN GÖRÜNTÜSÜ VARDIR
 
-![GhostLogic Taraması](img/demo.png)
+
+
